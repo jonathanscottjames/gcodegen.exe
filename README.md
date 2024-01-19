@@ -1,4 +1,4 @@
-v1.7 actually works the way it's designed. F1 for help and instructions. 
+v1.9.2 actually works the way it's designed. F1 for help and instructions. 
 After you start the program, 
 press F2 then select an area of the screen with the mouse. The selected area will be grayed out  While selecting.
 push "windows key" + "P" to start scanning. 
